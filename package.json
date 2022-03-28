@@ -1,0 +1,12 @@
+{
+  "name": "drawing-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Abijah Kajabika",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "lint": "lint ."
+  }
+}
