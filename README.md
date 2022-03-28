@@ -6,5 +6,6 @@ I saw this image on the internet so I decided to write a script with loops to ge
 
 
 # Final Result
-<img width="1001" alt="Screenshot 2022-03-29 at 00 18 41" src="https://user-images.githubusercontent.com/34766858/160492623-e442fc92-3218-4fcc-b9f5-9f26e1f727e2.png">
+<img width="673" alt="Screenshot 2022-03-29 at 02 12 49" src="https://user-images.githubusercontent.com/34766858/160502454-b3e0bdf3-79db-4ae1-9443-2e04546f2932.png">
+
 
